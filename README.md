@@ -2,7 +2,7 @@
     <img align="center" width="230" src="https://i.imgur.com/AtydHBz.png" />
     <br />
     <br />
-    <div>⚠️ This project is still in active development ⚠️</div>
+    <div>⚠️ This project is abandoned and being continued in a private repo ⚠️</div>
 </div>
 
 ## ⭐️ Info
